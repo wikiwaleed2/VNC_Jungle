@@ -1,0 +1,2 @@
+* RemoteVNC 1.0.0 - 8/26/09
+  - Initial release of RemoteVNC.

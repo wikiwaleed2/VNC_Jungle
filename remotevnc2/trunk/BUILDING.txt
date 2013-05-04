@@ -1,0 +1,18 @@
+
+  RemoteVNC/TightVNC version 1.3.10
+  BUILDING vncviewer and WinVNC
+
+======================================================================
+
+  Building from the source distribution
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The source distribution is ready to compile (all required libraries
+are included).
+
+Currently, two build environments are supported:
+MS Visual C++ 2008. The Workspace files for this environment
+is included in the distribution.  WinVNC.sln and vncviewer.sln
+solution files for Visual C++ 2008.
+
+
