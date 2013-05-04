@@ -1,5 +1,4 @@
-
-  RemoteVNC/TightVNC
+    ....  RemoteVNC/TightVNC ....
   Source distribution for Windows platforms
 
 ======================================================================
